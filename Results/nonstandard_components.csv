@@ -1,0 +1,6 @@
+chain_id,component_name,residue_number,hetero_flag,atom_count,elements
+A,ZN,301,H_ZN,1,ZN
+A,GOL,400,H_GOL,6,"C, O"
+A,AZM,701,H_AZM,13,"C, N, O, S"
+A,AZM,702,H_AZM,13,"C, N, O, S"
+A,AZM,703,H_AZM,13,"C, N, O, S"

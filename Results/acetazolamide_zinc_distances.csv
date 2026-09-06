@@ -1,0 +1,4 @@
+chain_id,azm_residue_number,closest_azm_atom,minimum_distance_to_zinc_angstrom
+A,701,N1,1.94
+A,703,O1,16.621
+A,702,N1,17.308
